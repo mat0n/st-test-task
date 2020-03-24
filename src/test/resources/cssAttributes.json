@@ -1,0 +1,20 @@
+{
+  "header": [
+    {
+      "font-size": "26px"
+    },
+    {
+      "line-height": "36px"
+    }
+  ],
+  "phone": [
+    {
+      "font-size": "18px"
+    },
+    {
+      "box-sizing": "border-box"
+    }
+  ]
+}
+
+
